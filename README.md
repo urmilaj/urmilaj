@@ -4,7 +4,7 @@
 - 🤝🏼 I’m looking to collaborate on data visualization, storytelling, D3.js projects.
 - 📫 How to reach me : vizcrazy93 on twitter.
 
-### ✨ Open data visualization opportunities using D3.js. ✨
+### ✨ Open to data visualization opportunities using D3.js. ✨
 
 ### 👇🏾 Below are a few (of many) data visualization projects. 👇🏾 
 
