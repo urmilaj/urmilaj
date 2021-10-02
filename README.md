@@ -6,8 +6,6 @@
 
 ### ✨ Open to data visualization opportunities using D3.js. ✨
 
-### 👇🏾 Below are a few (of many) data visualization projects. 👇🏾 
-
 <!---
 urmilaj/urmilaj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
