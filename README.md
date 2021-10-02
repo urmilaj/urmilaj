@@ -10,9 +10,10 @@
 
 <br>
 
-![Road Traffic Deaths visualization](https://github.com/urmilaj/images/blob/main/trends.png)
+
 ![Black History Month visualization](https://github.com/urmilaj/images/blob/main/tiles.png)
 ![Celebrating D3's 10 year anniversary visualization](https://github.com/urmilaj/images/blob/main/d3parade.png)
+![Road Traffic Deaths visualization](https://github.com/urmilaj/images/blob/main/trends.png)
 ![Seoul Bike sharing visualization](https://github.com/urmilaj/images/blob/main/correlation.png)
 ![World Power Plants visualization](https://github.com/urmilaj/images/blob/main/worldPowerPlants.png)
 ![Studio Ghilbi visualization](https://github.com/urmilaj/images/blob/main/monochrome.png)
