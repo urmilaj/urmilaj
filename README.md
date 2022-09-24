@@ -2,7 +2,7 @@
 - 👀 I’m interested in data visualization.
 - 🌱 I’m currently learning svelte.js
 - 🤝🏼 I’m looking to collaborate on data visualization, storytelling, D3.js projects.
-- 📫 How to reach me : vizcrazy93 on twitter.
+- 📫 How to reach me : DM vizcrazy93 on twitter.
 
 
 <!---
